@@ -34,6 +34,13 @@ Follow these steps to run the project locally:
 git clone https://github.com/AyushSharma67/react_project.git
 cd react_project
 
+### ⚠️ CORS Proxy Permission (Required Once)
+
+Before running the project, request temporary access to the CORS proxy:
+
+👉 Open this URL in your browser **once** before using the app:
+https://cors-anywhere.herokuapp.com/corsdemo
+
 ###2.Install dependencies
 npm install
 
